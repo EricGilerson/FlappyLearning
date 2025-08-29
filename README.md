@@ -1,5 +1,6 @@
 # Flappy Bird Reinforcement Learning (DQN)
-![Flappy RL demo](assets/FlappyExample.gif)
+![Flappy RL demo](FlappyExample.gif)
+
 This project implements a **Deep Q-Network (DQN)** to train an agent to play *Flappy Bird* using PyTorch.  
 It combines a custom Pygame environment with prioritized experience replay, LayerNorm, and dropout for stability.
 
